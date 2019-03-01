@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG
+  - FG
+  - Usable
+  - Trap
+  - TransitionDoor
+  - Ground
+  - Wall
+  - ColliderCameraRoom
+  - Bios
+  - Door
+  - Dirt
+  - Hole
+  - Cursor
+  - Pause
+  - Opponant
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Ground
+  - Hole
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1337666919
+    locked: 0
+  - name: New Layer
+    uniqueID: 3621152977
+    locked: 0
