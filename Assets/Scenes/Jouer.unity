@@ -548,31 +548,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da3260ed4928fb546b4c6b3cc58d67b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  troupourcheck: {fileID: 7763522416760825699, guid: 7af350bf82f27374ca36b58c8c7e0fce,
-    type: 3}
   ListPrefab:
   - {fileID: 1507058563708005596, guid: 59778683d9bc26344af0d27adc85cee4, type: 3}
   - {fileID: 7763522416760825699, guid: 7af350bf82f27374ca36b58c8c7e0fce, type: 3}
   - {fileID: 1507058563708005596, guid: 622e4876dacf7434aaa53326b036c170, type: 3}
   - {fileID: 1507058563708005596, guid: d1737928910d670438babb4fafa47f7e, type: 3}
   - {fileID: 1507058563708005596, guid: b0bcce5b646b1b74fad5fc063cb30d30, type: 3}
-  Fin: {fileID: 6433394639947642189, guid: ae78256984d5315489fff2f64637fc0c, type: 3}
-  Debut: {fileID: 6433394639947642189, guid: 03e9c7969b59efa44b10d34bc74ba0e6, type: 3}
-  ListEnemy:
-  - {fileID: 376199162, guid: e9ce58a7b23d68343896b2107c890d84, type: 3}
-  - {fileID: 376199162, guid: ed75ae5027583564abfca84932ebdb2a, type: 3}
-  - {fileID: 376199162, guid: 8ea0ada75dd652f4d92f0e95feb78237, type: 3}
-  - {fileID: 376199162, guid: b715fcd9ad39dc4408f57fc651c8e23e, type: 3}
-  nbEnemyGeneration: 3
-  J1: {fileID: 926382355}
-  J2: {fileID: 214659376}
   ListTaille:
   - {x: 1, y: 0, z: 0}
   - {x: 3, y: 0, z: 0}
   - {x: 3, y: 1, z: 0}
   - {x: 3, y: -1, z: 0}
   - {x: 5, y: 1, z: 0}
+  Fin: {fileID: 6433394639947642189, guid: ae78256984d5315489fff2f64637fc0c, type: 3}
+  Debut: {fileID: 6433394639947642189, guid: 03e9c7969b59efa44b10d34bc74ba0e6, type: 3}
   Niveau: []
+  ListTailleNiveau: []
+  ListEnemy:
+  - {fileID: 376199162, guid: e9ce58a7b23d68343896b2107c890d84, type: 3}
+  - {fileID: 376199162, guid: ed75ae5027583564abfca84932ebdb2a, type: 3}
+  - {fileID: 376199162, guid: 8ea0ada75dd652f4d92f0e95feb78237, type: 3}
+  - {fileID: 376199162, guid: b715fcd9ad39dc4408f57fc651c8e23e, type: 3}
+  nbEnemyGeneration: 190
+  J1: {fileID: 926382355}
+  J2: {fileID: 214659376}
 --- !u!1 &926382355 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 926382355, guid: 2457621172594e14c8ae4de722358381,

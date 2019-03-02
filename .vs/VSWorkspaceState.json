@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Assets",
-    "\\Assets\\Script"
+    "\\Assets\\Script",
+    "\\Library\\PackageCache"
   ],
   "SelectedNode": "\\Assets\\Script\\PlatformGenerator.cs",
   "PreviewInSolutionExplorer": false
